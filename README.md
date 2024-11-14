@@ -16,3 +16,9 @@
 
 # <a href="https://roadmap.sh/projects/image-grid">Day 7: Image Grid Layout</a>
 
+# <a href="https://roadmap.sh/projects/image-grid">Day 8: ...</a>
+
+# <a href="https://roadmap.sh/projects/image-grid">Day 9: ...</a>
+
+# <a href="https://roadmap.sh/projects/image-grid">Day 10: ...</a>
+

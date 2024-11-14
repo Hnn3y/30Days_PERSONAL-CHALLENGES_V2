@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+} 
+
+.date{
+    text-align: center;
+    width: 340px;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 20px;
+} 
+
+/* Calender Header with Navigation*/
+.calender{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+} 
+
+.calender h2{
+    font-size: 1.5rem;
+    color: azure;
+    margin: 0;
+}
+
+/*Style for the navigation button*/
+.calender button{
+    background: none;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: color 1s;
+} 
+
+.calender button:hover {
+    color: whitesmoke;
+} 
+
+/*Table Styles */
+table{
+    width: 100%;
+    border-collapse: collapse;
+} 
+
+th, td{
+    width: 3px;
+    padding: 6px;
+    text-align: center;
+}
