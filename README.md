@@ -2,7 +2,7 @@
 
 # This repository contains my attempted frontend challenges on roadmap.sh 
 
-# <a heref="https://roadmap.sh/projects/portfolio-website">Day 1:Personal Portfolio</a> 
+# <a href="https://roadmap.sh/projects/portfolio-website">Day 1:Personal Portfolio</a> 
 
 # <a href="https://roadmap.sh/projects/changelog-component">Day 2: Changelog Component</a>
 
@@ -16,7 +16,7 @@
 
 # <a href="https://roadmap.sh/projects/image-grid">Day 7: Image Grid Layout</a>
 
-# <a href="https://roadmap.sh/projects/image-grid">Day 8: ...</a>
+# <a href="https://roadmap.sh/projects/tooltip-ui">Day 8: Tooltip UI</a>
 
 # <a href="https://roadmap.sh/projects/image-grid">Day 9: ...</a>
 

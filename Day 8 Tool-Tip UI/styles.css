@@ -1,0 +1,23 @@
+body{
+    display: grid;
+    place-items: center;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+} 
+
+.container a{
+    background-color: white;
+    padding: 5px;
+    border-radius: 50%;
+    align-items: center;
+}
+
+.container a svg{
+    margin: 50px 0px;
+    height: 35px;
+    border: 50px 0px;
+    padding: 5px;
+}
